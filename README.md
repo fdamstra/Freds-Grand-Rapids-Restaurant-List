@@ -1,12 +1,19 @@
-# Freds-Grand-Rapids-Restaurant-List
-A list of dishes and restaurants in Grand Rapids with recommendations
+# Fred'ss Grand Rapids, MI Restaurant Recommendations
 
 ## Summary
-A friend asked me for a list of restaurant recommendation in Grand Rapids. The food around here is fantastic, so
-it's hard to know which ones to try. Additionally, I wanted to keep a list of restaurants that I intend to try. 
-Feel free to submit more for me, especially with dish recommendations!
+A friend asked me for a list of restaurant recommendation in Grand Rapids. There are so many good restaurants in the area that
+it hard to know which ones to try, and even once you get there, what are their truly "great" dishes. So here are some of my 
+recommendations.
 
-These are obviously personal opinions, and based on limited experience.
+These are obviously personal choices. I like big, bold flavors and highly seasoned food. I like variety, even
+within the dish itself (e.g. bibimbap). And I like new and different things. I've had bacon and eggs for 
+breakfast too many times; give me garlic chicken and eggs on texas toast with Hollandaise, please (Bring it
+back, Wolfgangs!).
+
+Additionally, I wanted to keep a list of restaurants that I intend to try.  Feel free to [submit more recommendations](https://github.com/fdamstra/Freds-Grand-Rapids-Restaurant-List/issues)
+for me. Whenever possible, please include a particular dish to try!
+
+All opinions are my own, based on my own experience.
 
 ### Top Favorites
 Each section is roughly in order of my preference.
@@ -45,7 +52,6 @@ Places where you can grab a quick bite. Often order at the counter and take to y
 |------------|----------|----------------------|-------|
 | Wolfgang's | Easttown | Anything | Get there early on weekends or you will wait. |
 | Manna Cafe | Cascade and Forest Hill | Manna Hash | The hash is so good because of their corned beef. |
-
 
 #### Pizza
 
