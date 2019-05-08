@@ -22,6 +22,7 @@ These are places where you should go for a nice sit down dinner or long lunch. T
 | Bistro Bella Vita | Downtown | New American | Beef Bourguignon | Same owners as green well but slightly fancier. |
 | Grove | East Hills | Farm to Table | Tasting Menu | Expensive, but the tasting menu lets you get an appetizer, main, and dessert for $35. |
 | Bosna Express | 28th & 131 | Bosnian | Grille Platter or Cevapi | Despite the name, is a sitdown restaurant. |
+| San Chez Bistro | Downtown | Tapas | Any and all | Shrimp with bananas? Crazy! Crazy delicious! |
 | Sheshco | Knapps Corner | Meditteranean | Bread and garlic | Bread and garlic comes with every meal. You want more. |
 | Thai Fusion | Rockford / 28th and Beltline | Thai | Red Curry Fried Rice (extra curry!) |  |
 
@@ -32,6 +33,7 @@ Places where you can grab a quick bite. Often order at the counter and take to y
 |------------|----------|-------|----------------------|-------|
 | Schnitz Deli | Fulton Heights | Sandwiches (classic) | #2 Schnitz Reuben | Limited Hours - Check [website](https://https://schnitzdeli.com/) |
 | Taco's El Cunado | Downtown Market | Steak Tacos | Just great simple tacos |
+| Wiki Wiki Poke Shop | East Hills | Wiki Minaj | Pricey but worth it. |
 | Jody's | Rockford | Diner | Olive Burger | In Rockford. "Greasy spoon" does it a disservice. Really good food, and healthy options as well. |
 | Sami's Pita House | 28th and Beltline | Mediterranean | Sami's Gyro | |
 | Maggie's Kitchen | Bridge St | Mexican | Barbacoa Tacos | Authentic tacos |
@@ -54,15 +56,18 @@ Places where you can grab a quick bite. Often order at the counter and take to y
 
 ### Other Recommendations
 
-| Restaurant | Location | Recommended Dish(es) | Notes |
+| Restaurant | Location | Style | Notes |
 |------------|----------|----------------------|-------|
-| Butcher's Union | Bridge St | | I remember liking this place, but no specifics. |
+| Butcher's Union | Bridge St | New American | I remember liking this place, but no specifics. |
 
 ### To Try
+[Open an issue](https://github.com/fdamstra/Freds-Grand-Rapids-Restaurant-List/issues) to add suggestions! Try to recommend a particular dish.
 
-| Restaurant | Location | Recommended Dish(es) | Notes |
+| Restaurant | Location | Style | Notes |
 |------------|----------|----------------------|-------|
-
+| Hotel Merten's | Downtown | French | Croquembouche on the dessert menu? |
+| Forty Acres | East Hills | Soul Food | I love a good gumbo. |
+| Terra GR | Easttown | Farm to Table | |
 
 ## License
 Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
