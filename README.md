@@ -16,7 +16,7 @@ These are places where you should go for a nice sit down dinner or long lunch. T
 
 | Restaurant | Location | Style | Recommended Dish(es) | Notes |
 |------------|----------|-------|----------------------|-------|
-| Electric Cheetah | East Hills | Sandwiches (modern) |  | Menu changes frequently. Also has a Root Beer menu. |
+| [Electric Cheetah](https://www.electriccheetah.com/) | East Hills | Sandwiches (modern) |  | Menu changes frequently. Also has a Root Beer menu. |
 | Uncle Cheetah's Soup Shop | East Hills | Soup and Sandwiches (modern) | Absolutely Everything | For lunch, get there before 11:45 or the layout of the place makes it awkward. |
 | Green Well | East Hills | New American | Spaetzle | Their menu changes frequently, and everything is good, but they seem to really know what to do with Spaetzel. |
 | Bistro Bella Vita | Downtown | New American | Beef Bourguignon | Same owners as green well but slightly fancier. |
@@ -66,7 +66,8 @@ Places where you can grab a quick bite. Often order at the counter and take to y
 | Restaurant | Location | Style | Notes |
 |------------|----------|----------------------|-------|
 | Hotel Merten's | Downtown | French | Croquembouche on the dessert menu? |
-| Forty Acres | East Hills | Soul Food | I love a good gumbo. |
+| [Carolina Low Country Kitchen](https://www.carolinalck.com/) | Southern | |
+| [Forty Acres](https://fortyacresgr.com/) | East Hills | Soul Food | Gumbo? |
 | Terra GR | Easttown | Farm to Table | |
 
 ## License
