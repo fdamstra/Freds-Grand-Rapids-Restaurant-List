@@ -1,4 +1,4 @@
-# Fred'ss Grand Rapids, MI Restaurant Recommendations
+# Fred's Grand Rapids, MI Restaurant Recommendations
 
 ## Summary
 A friend asked me for a list of restaurant recommendation in Grand Rapids. There are so many good restaurants in the area that
@@ -80,4 +80,4 @@ Places where you can grab a quick bite. Often order at the counter and take to y
 Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-See [LICENSE.txt] for full terms.
+See [LICENSE.txt](LICENSE.txt) for full terms.
