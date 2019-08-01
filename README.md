@@ -75,6 +75,7 @@ Places where you can grab a quick bite. Often order at the counter and take to y
 | [Carolina Low Country Kitchen](https://www.carolinalck.com/) | Southern | |
 | [Forty Acres](https://fortyacresgr.com/) | East Hills | Soul Food | Gumbo? |
 | Terra GR | Easttown | Farm to Table | |
+| [Roam](https://roambysanchez.com/menu) | Downtown | World Fusion | |
 
 ## License
 Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
