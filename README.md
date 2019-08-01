@@ -72,7 +72,7 @@ Places where you can grab a quick bite. Often order at the counter and take to y
 | Restaurant | Location | Style | Notes |
 |------------|----------|----------------------|-------|
 | Hotel Merten's | Downtown | French | Croquembouche on the dessert menu? |
-| [Carolina Low Country Kitchen](https://www.carolinalck.com/) | Southern | |
+| [Carolina Low Country Kitchen](https://www.carolinalck.com/) | East Grand Rapids | Southern | $1 oysters and $2 Miller Drafts every Monday. ||
 | [Forty Acres](https://fortyacresgr.com/) | East Hills | Soul Food | Gumbo? |
 | Terra GR | Easttown | Farm to Table | |
 | [Roam](https://roambysanchez.com/menu) | Downtown | World Fusion | |
