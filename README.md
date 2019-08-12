@@ -76,6 +76,7 @@ Places where you can grab a quick bite. Often order at the counter and take to y
 | [Forty Acres](https://fortyacresgr.com/) | East Hills | Soul Food | Gumbo? |
 | Terra GR | Easttown | Farm to Table | |
 | [Roam](https://roambysanchez.com/menu) | Downtown | World Fusion | |
+| [Eastern Deli](https://www.facebook.com/easterndeli/) | | ? | Best Cheesesteak? |
 
 ## License
 Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
