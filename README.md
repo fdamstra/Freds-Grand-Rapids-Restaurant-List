@@ -24,7 +24,7 @@ These are places where you should go for a nice sit down dinner or long lunch. T
 | Restaurant | Location | Style | Recommended Dish(es) | Notes |
 |------------|----------|-------|----------------------|-------|
 | [Electric Cheetah](https://www.electriccheetah.com/) | East Hills | Sandwiches (modern) |  | Menu changes frequently. Also has a Root Beer menu. |
-| Uncle Cheetah's Soup Shop | East Hills | Soup and Sandwiches (modern) | Absolutely Everything | For lunch, get there before 11:45 or the layout of the place makes it awkward. |
+| Uncle Cheetah's Soup Shop | East Hills | Soup and Sandwiches (modern) | Absolutely Everything | For lunch, get there before 11:45 or the layout of the place makes it awkward. (Finally: [Soup Descriptions!](https://www.unclecheetahs.com/soup-descriptions) |
 | Green Well | East Hills | New American | Spaetzle | Their menu changes frequently, and everything is good, but they seem to really know what to do with Spaetzel. |
 | Bistro Bella Vita | Downtown | New American | Beef Bourguignon | Same owners as green well but slightly fancier. |
 | Grove | East Hills | Farm to Table | Tasting Menu | Expensive, but the tasting menu lets you get an appetizer, main, and dessert for $35. |
